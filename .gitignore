@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+downloads/
+.session-*
+session-*
+*.json.xz
+.DS_Store
+
